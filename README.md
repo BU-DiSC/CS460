@@ -1,2 +1,2 @@
 # CS460
-https://midaslab-bu.github.io/CS460/
+https://bu-disc.github.io/CS460/
