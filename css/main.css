@@ -108,6 +108,12 @@ background: #E0E0E0;
 /*
  * BUTTON
  */
+ @media screen and (max-width: 1200px) {
+  .btn-xl {
+    margin-bottom: 20px;
+  }
+}
+ 
 
 .btn-xl {
     padding: 20px 40px;
